@@ -14,3 +14,5 @@ Imports:
     dplyr,
     palmerpenguins,
     tidyr
+URL: https://github.com/Eve1002/knn
+BugReports: https://github.com/Eve1002/knn/issues
